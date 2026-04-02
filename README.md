@@ -5,7 +5,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
 ## Features
 - FastAPI framework
 - SQLAlchemy ORM integration
-- SQLite database
+- MySQL database
 - CRUD operations (Create, Read, Update, Delete)
 - Interactive API docs (Swagger UI)
 
